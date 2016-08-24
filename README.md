@@ -1,5 +1,5 @@
-Ride Sharing Script, Carpooling Clone, Ride Sharing Clone
-=========================================================
+Ride Sharing Clone
+==================
 Necessity is the mother of invention. With more and more people opting to ride sharing, it became imperative that we make it easier for them by designing the Ride Sharing Script. A concept that has been taken from the original ride-sharing site, our carpooling clone has the best features, which include:
 -A site that can be designed, and branded just for you, with your unique features
 - Launch it anywhere in the world without having to worry about language or currency constraints because we do that for you at no extra cost
