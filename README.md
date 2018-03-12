@@ -9,4 +9,4 @@ Necessity is the mother of invention. With more and more people opting to ride s
 - Minor modifications to text and image changes will be done at no cost to you for the first week.
 - The system has been designed to accept Paypal and credit card payments
 - Choose your own template from our very wide selection
-Our ride-sharing clone matches no other. Check it out by clicking on the link below: http://www.v3cube.com/start-your-car-pooling-site-today/
+Our ride-sharing clone matches no other. Check it out by clicking on the link below: https://www.v3cube.com/start-your-car-pooling-site-today/
